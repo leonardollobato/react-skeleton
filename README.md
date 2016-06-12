@@ -1,1 +1,1 @@
-# ReactJs-Skeleton
+# React Skeleton
